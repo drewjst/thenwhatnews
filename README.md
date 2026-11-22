@@ -1,6 +1,6 @@
-# Ripple Atlas
+# Then What News
 
-Ripple Atlas is a globe-first news atlas for tracing what happened, where, and
+Then What News is a globe-first news atlas for tracing what happened, where, and
 what changed as a result. A reader starts with an event such as a weather
 system, follows a documented closure or response to a specific place, and
 inspects the source behind each step. An agent traverses the same graph to
@@ -49,7 +49,7 @@ The following principles guide the design:
 
 Copyright (C) 2026 Andrew (drewjst).
 
-Ripple Atlas is free software. You can redistribute it and modify it under the
+Then What News is free software. You can redistribute it and modify it under the
 terms of the GNU Affero General Public License, version 3 only, as published by
 the Free Software Foundation. For the full text, see [LICENSE](LICENSE).
 
@@ -57,7 +57,7 @@ If you run a modified version as a network service, the license requires you to
 offer the modified source to the users of that service.
 
 The license covers the code and content in this repository. It doesn't grant
-any right to use the name "Ripple Atlas" or the project's logo for a derived
+any right to use the name "Then What News" or the project's logo for a derived
 product or service.
 
 To use this work under different terms, open an issue to ask about a commercial
