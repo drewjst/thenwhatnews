@@ -9,4 +9,5 @@ Decisions this session:
 - GitHub Pages serves index.html from the root of main, with .nojekyll — the mockup is one static file — rejected: a docs/ folder or a gh-pages branch.
 - The product is autonomous news aggregation with machine-made correlation links — the owner stated this on 2026-11-21 — rejected: the packet's editor-reviewed, manually produced briefing, which both councils ruled on.
 - The name is "Then What News", with the repo and page at `thenwhatnews` — the owner chose it on 2026-11-21 because a stranger understands it — rejected: "Ripple Atlas" (unclear, and it reads as the crypto company), "Aftermath Map", "Knock-on Map". Open: a USPTO search before any domain purchase.
+- A link carries one of three labels: followed, related, or attributed — the software never states a cause in its own voice, which keeps political links safe to publish without an editor — rejected: one "caused" label that the model assigns.
 Pointers: branch main · index.html (mockup) · https://drewjst.github.io/thenwhatnews/ · research/council-packet.md, research/council-first-move.md, research/council-name.md (all local only)
